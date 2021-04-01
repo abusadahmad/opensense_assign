@@ -1,3 +1,3 @@
 # opensense_assign
 
-tab here for a quick preview of my project
+https://abusadahmad.github.io/opensense_assign/ tab here for a quick preview of my project
