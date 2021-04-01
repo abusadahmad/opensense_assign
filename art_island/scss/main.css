@@ -1,0 +1,45 @@
+/*Global styling*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+}
+
+p, a, h1, h2, h3, h4, h5, h6, .button, span, label, li {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.navbar .navbar-nav li .navbar-brand {
+  margin-right: 0px;
+}
+
+.navbar .navbar-nav li .navbar-brand img {
+  width: 90px;
+}
+
+.navbar .navbar-nav li a {
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.navbar .navbar-nav .nav-link {
+  padding: 20px 35px;
+  color: #fff;
+}
+
+.bg-light {
+  background-color: transparent !important;
+}
+
+.homebanner .container-fluid {
+  padding: 0;
+}
+
+.homebanner img {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  z-index: -1;
+}
+/*# sourceMappingURL=main.css.map */

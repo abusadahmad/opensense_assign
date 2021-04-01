@@ -1,0 +1,26 @@
+.navbar {
+    .navbar-nav {
+        li {
+            .navbar-brand {
+                margin-right: 0px;
+                img {
+                    width: 90px;
+                }
+            }
+            a {
+                text-transform: uppercase;
+                color: $white;
+            }
+        }
+        .nav-link {
+            padding: 20px 35px;
+            color: $white;
+            &:hover {
+                color: $blue;
+            }
+        }
+    }
+}
+.bg-light {
+    background-color: transparent !important;
+}
